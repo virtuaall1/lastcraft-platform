@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/game-platform/game-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-platform/game-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-platform/game-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-platform/game-engine/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-platform/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-platform/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/cache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/database/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/messaging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/messaging/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/persistence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/persistence/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-command/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-command/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-economy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-economy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-matchmaking/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-matchmaking/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-permissions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-permissions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-player/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-player/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-statistics/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/platform-statistics/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy/velocity-plugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy/velocity-plugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/purpur-plugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/purpur-plugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tooling/architecture-tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tooling/architecture-tests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tooling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tooling/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tooling/testkit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tooling/testkit/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

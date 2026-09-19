@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Annotation profile for Westorix Platform" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
+        </processorPath>
+        <module name="platform-permissions" />
+        <module name="platform-player" />
+        <module name="cache" />
+        <module name="game-api" />
+        <module name="platform-matchmaking" />
+        <module name="purpur-plugin" />
+        <module name="platform-auth" />
+        <module name="messaging" />
+        <module name="platform-core" />
+        <module name="database" />
+        <module name="velocity-plugin" />
+        <module name="platform-api" />
+        <module name="platform-statistics" />
+        <module name="testkit" />
+        <module name="persistence" />
+        <module name="platform-economy" />
+        <module name="architecture-tests" />
+        <module name="game-engine" />
+        <module name="platform-command" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="architecture-tests" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="cache" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="database" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="game-api" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="game-engine" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="game-platform" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="infrastructure" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="lastcraft-platform" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="messaging" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="persistence" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="platform" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="platform-api" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="platform-auth" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="platform-command" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="platform-core" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="platform-economy" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="platform-matchmaking" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="platform-permissions" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="platform-player" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="platform-statistics" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="proxy" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="purpur-plugin" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="server" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="testkit" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="tooling" options="-parameters -Xlint:all,-serial,-processing" />
+      <module name="velocity-plugin" options="-parameters -Xlint:all,-serial,-processing" />
+    </option>
+  </component>
+</project>
